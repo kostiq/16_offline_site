@@ -1,6 +1,12 @@
 # New Site Template
 
-[TODO. There will be project description]
+В данной задаче были скачаны js и css файлы с онлайн ресурса:
+    http://getbootstrap.com/examples/jumbotron/
+
+Теперь вы можете клонировать себе данный репозиторий:
+    git clone link_to_repo
+
+И открывать в своем браузере оффлайн!
 
 # Project Goals
 
