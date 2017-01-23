@@ -1,9 +1,11 @@
 # New Site Template
 
 В данной задаче были скачаны js и css файлы с онлайн ресурса:
+
     http://getbootstrap.com/examples/jumbotron/
 
 Теперь вы можете клонировать себе данный репозиторий:
+
     git clone link_to_repo
 
 И открывать в своем браузере оффлайн!
